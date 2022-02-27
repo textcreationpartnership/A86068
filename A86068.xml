@@ -1,0 +1,1775 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God the believer's best stronghold in the worst times. A sermon preached upon the preservation of His Majesty's person, and the discovery of the late plot of the intended invasion. / By Edmund Godwin ...</title>
+            <author>Godwin, Edmund.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86068</idno>
+            <idno type="STC">Wing G967A</idno>
+            <idno type="STC">ESTC R177501</idno>
+            <idno type="EEBO-CITATION">45789328</idno>
+            <idno type="OCLC">ocm 45789328</idno>
+            <idno type="VID">172638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172638)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2642:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God the believer's best stronghold in the worst times. A sermon preached upon the preservation of His Majesty's person, and the discovery of the late plot of the intended invasion. / By Edmund Godwin ...</title>
+                  <author>Godwin, Edmund.</author>
+               </titleStmt>
+               <extent>[8], 47 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Robinson at the Golden Lion in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Nahum I, 7 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172638:1" rendition="simple:additions"/>
+            <p>God the Believer's beſt Strong-hold
+in the worſt Times.</p>
+            <p>A
+SERMON
+PREACHED
+Upon the Preſervation of
+His MAJESTY'S Perſon,
+AND THE
+Diſcovery of the late Plot of
+the Intended Invaſion.</p>
+            <p>By <hi>EDM<g ref="char:V">Ʋ</g>ND GODWIN,</hi>
+Rector of <hi>Cowley.</hi>
+            </p>
+            <q>Deo confiſi nunquam confuſi.</q>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Jonathan Robinſon</hi> at the Golden
+Lion in St. <hi>Paul</hi>'s Church-Yard. 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:172638:2"/>
+            <pb facs="tcp:172638:2"/>
+            <head>To the Right Worſhipful
+Sir JONATHAN KEATE,
+Knight and Baronet.</head>
+            <p>WHereas formerly there
+hath been ſome pro<g ref="char:EOLhyphen"/>miſe
+of my coming
+into your parts to preach, and to
+pay my Reſpects to your Worſhip
+for Kindneſſes of old; when you,
+and others with you, did largely
+declare your Deſire of having me
+your Miniſter at <hi>Paul</hi>'s <hi>Walden:</hi>
+I ſhould readily have accepted of
+your Kindneſſes, but that the Vica<g ref="char:EOLhyphen"/>ridge-Houſe
+was ſo ruinous, and a
+Promiſe being paſt of my being elſe<g ref="char:EOLhyphen"/>where;
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172638:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172638:3"/>
+               <pb facs="tcp:172638:4"/>
+yet I muſt needs confeſs my
+ſelf to be indebted ſince to come, and
+give you a Sermon: So that I am
+ſo long indebted upon that account,
+<hi>Uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dum uſura ſuperat ſortem;
+That the very Intereſt doth
+far exceed the Principal.</hi> How<g ref="char:EOLhyphen"/>ever,
+I would have you know, that
+I ſtill bear an honeſt Mind, having
+a Deſire to pay according to my A<g ref="char:EOLhyphen"/>bility;
+and though I cannot come
+and pay what I owe in Perſon, yet
+I have ſent my Subſtitute, this Pa<g ref="char:EOLhyphen"/>per
+Meſſenger to ſupply my Place;
+and knowing how well you, and
+thoſe about you, ſtand affected to the
+Preſent Government, I have pitcht
+upon Printing a <hi>Thankſgiving-Ser<g ref="char:EOLhyphen"/>mon</hi>
+for the <hi>Diſcovery and Diſap<g ref="char:EOLhyphen"/>pointment
+of the late Dangerous
+Plot of Aſſaſſinating His Majeſty,
+<pb facs="tcp:172638:4"/>
+and the Invading this Kingdom
+with a deſign of rooting out our
+Religion,</hi> under the notion <hi>of the
+Northern Hereſie:</hi> And I know<g ref="char:EOLhyphen"/>ing
+how ſtedfaſt you have been, and
+others about you, to the Truth, and
+how ready you are to aſſiſt its Fa<g ref="char:EOLhyphen"/>vourers,
+and to reſiſt its Oppoſers,
+I thought good to preſent you with
+a taſte of what I did deliver upon
+that Occaſion, hoping it may fall in<g ref="char:EOLhyphen"/>to
+the Hands of ſome of that worthy
+Family of the <hi>Hales,</hi> that former<g ref="char:EOLhyphen"/>ly
+were my Noble Benefactors. I
+hope there are ſome of that Race a<g ref="char:EOLhyphen"/>live
+in thoſe Parts, though I hear,
+to my Grief, that Worthy Lady, the
+Lady <hi>Auſtin,</hi> is dead. God hath
+hitherto prolonged my Life, and it
+is much upon my Spirit to give you
+a Viſit in thoſe Parts before I die.
+<pb facs="tcp:172638:5"/>
+I do but preſent you with a taſte of
+my Labours, and wiſh they may be
+well reliſht and received by you;
+it then may be an Inducement to put
+out more of my Labours, yet before
+I die. I remember a Paſſage of
+Biſhop <hi>Latimer</hi>'s, that he Preach<g ref="char:EOLhyphen"/>ed
+in a Sermon before the King,
+<hi>of one that had brought up his
+Son at the Univerſity, and a Gen<g ref="char:EOLhyphen"/>tleman
+not far off from him, hav<g ref="char:EOLhyphen"/>ing
+a Living in his Gift newly fal<g ref="char:EOLhyphen"/>len;
+that he might gain it for his
+Son, preſents him with a Diſh of
+ten very fair Apples, and had put
+into every one of the Apples 10
+twenty Shilling Pieces, and ſent
+his Man with them to the Patron,
+and withal to deſire him to pre<g ref="char:EOLhyphen"/>ſent
+his Son to the Living of his
+that was fallen.</hi> The Man having
+<pb facs="tcp:172638:5"/>
+delivered them, and deſiring him in
+his Maſter's Name to remember his
+Son for the Living; the Gentleman
+ſeemed to be angry, <hi>and bid him
+carry back his Maſter's Apples, he
+would have none of them.</hi> Which
+the Man did, and told his Maſter
+that he would have none of his Ap<g ref="char:EOLhyphen"/>ples.
+Says his Maſter to him, <hi>Car<g ref="char:EOLhyphen"/>ry
+them again, and deſire him but
+to taſte one of them, and as he
+likes that, to accept of the reſt.</hi>
+Which the Man did, and tells him,
+<hi>That his Maſter however did de<g ref="char:EOLhyphen"/>ſire
+him but to taſte one of them.</hi>
+Which he did, and finding 10 twen<g ref="char:EOLhyphen"/>ty
+Shilling Pieces in it, crys out,
+<hi>I marry, if they be all like this,
+thy Maſter's Son ſhall have the
+Living. I will aſſure you,</hi> ſays
+the Man, <hi>they all came off of the
+<pb facs="tcp:172638:6"/>
+ſame Tree:</hi> Though Symony was
+in uſe then, yet not ſo openly practi<g ref="char:EOLhyphen"/>ced
+as now a-days. The <g ref="char:V">Ʋ</g>ſe that I
+ſhall make of the Story, is only to
+tempt you to a taſte of my Labours
+in Print, and as this is reliſht it is
+poſſible the World may have more of
+them. So beſeeching the Lord to
+bleſs you, and the Worthy Families
+not far off from you, I muſt needs
+acknowledge that I ſtill remain,</p>
+            <closer>
+               <signed>Your very much obliged,
+To ſerve You,
+<hi>Edmund Godwin.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:172638:6"/>
+            <epigraph>
+               <bibl>Nahum I. ver. 7.</bibl>
+               <q>The Lord is good, a ſtrong hold in
+the day of trouble, and he know<g ref="char:EOLhyphen"/>eth
+them that truſt in him.</q>
+            </epigraph>
+            <p>THE Apoſtle <hi>Paul</hi> hath foretold
+how in the latter perillous times,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, hard times for Per<g ref="char:EOLhyphen"/>ſons
+to keep Faith and a good
+Conſcience; and indeed dangerous in which
+to live, in regard of the abounding of Sin;
+and we ſeem to be fallen into the ſame times
+that the Apoſtle <hi>Paul</hi> himſelf was fallen into,
+mentioned <hi>2 Cor.</hi> 11. 26. as you may ſee
+there: He was in Journeying often as His
+Majeſty K. <hi>William</hi> hath been, in Perils of
+Waters, in Perils of Robbers, in Perils by his
+own Country-men, in Perils by other Coun<g ref="char:EOLhyphen"/>try-men,
+in Perils in the City, in Perils in
+the Country, in Perils amongſt falſe Bre<g ref="char:EOLhyphen"/>thren,
+and in Perils amongſt pretended
+Friends; ſo that there hath been threatned
+<pb n="2" facs="tcp:172638:7"/>
+               <hi>ubique naufragium.</hi> However, God hath
+been good, may his Majeſty now ſay, and a
+Strong-hold, and a ſure Defence in all ſorts
+of Troubles, and wonderfully delivered in
+every Danger; hitherto he hath been an
+<hi>Ebenezer.</hi>
+            </p>
+            <p>In the foregoing part of the Chapter, you
+have firſt the Inſcription of the Propheſy in
+the firſt Verſe, and then a Deſcription of the
+Almighty, firſt in his Power and Greatneſs
+in five of the foregoing Verſes, and then in
+Goodneſs and Mercy; having to deal with
+many and mighty Adverſaries, as with <hi>Ni<g ref="char:EOLhyphen"/>neveh</hi>
+that great City, the Men whereof
+were great Sinners before the Lord, and
+had repented of their former Repentings in
+<hi>Jonah</hi>'s time, and had returned with the
+Dog to their former Vomit, and with the
+Sow to their wallowing again in the Mire
+of Sin, ſo <hi>that their latter State was now worſe
+than the former;</hi> for which God threatens
+them with the greateſt Plagues, and heavieſt
+Judgments: But God is never ſo angry, but
+in Wrath he can and will ſhew Mercy, and
+knows his Friends from his Foes, according
+to the Tenor of the Words of the Text,
+<hi>The Lord is good.</hi>
+            </p>
+            <p>So that the Words are like a Light ſhine<g ref="char:EOLhyphen"/>ing
+in a dark place, or as a Haven or Har<g ref="char:EOLhyphen"/>bour
+in time of a Storm, or a ſtrong Fort
+or Tower in the day of Diſtreſs, to which
+<pb n="3" facs="tcp:172638:7"/>
+the Righteous may run and reſort in the
+time of Danger, and be ſure to be ſafe. So
+that you have in the Words,</p>
+            <p>Firſt, <hi>Something affirmed,</hi> That the Lord
+is good.</p>
+            <p>
+               <hi>Secondly,</hi> You have the ſame confirmed
+by a twofold Argument; As,</p>
+            <p>1ſt. <hi>In that he</hi> is a ſtrong hold in the day of
+trouble.</p>
+            <p>2dly. <hi>In that he</hi> knows thoſe that truſt in him.</p>
+            <p>
+               <hi>That God is good,</hi> is ſuch a Truth as we all
+have cauſe to ſet our Seals unto, for he hath
+not left himſelf without witneſs of doing of
+us good, eſpecially of late in defending and
+delivering of us; and ſo I ſhall come to take
+notice firſt of the Time when it is that his
+Goodneſs doth moſt appear, and that is in
+the Time of Trouble; and then to whom
+it doth appear, and that is to ſuch as know
+him, or rather are known of him, ſuch as not
+barely know him, but truſt in him.</p>
+            <p>Now the Doctrines that I ſhall lay down
+from the Words, are theſe;</p>
+            <p>
+               <hi>Doct.</hi> 1. That God's People here in this
+World meet with days of Trouble.</p>
+            <p>
+               <hi>Doct.</hi> 2. That they never find times ſo bad,
+but ſtill they find God to be good.</p>
+            <p>
+               <pb n="4" facs="tcp:172638:8"/>
+               <hi>Doct.</hi> 3. That in times of Danger, God
+then more eſpecially will be a ſtrong
+hold too.</p>
+            <p>
+               <hi>Doct.</hi> 4. God knows ſuch as truſt in him
+in a more ſpecial manner to ſave.</p>
+            <p>On the firſt, namely, That God's People
+here in this World, meet with days of
+Trouble.</p>
+            <p>Now we may take notice of this in all
+the faithful Servants of God: God had one
+Son without Sin, but he never had any
+without Sorrow; his own Son that was the
+head of the Church, was a Man of Sorrows;
+and the firſt Man that died, he died for Re<g ref="char:EOLhyphen"/>ligion,
+and ſo the Father of the Faithful,
+who ever had greater or hotter Trials?
+And ſo <hi>Jacob,</hi> in whoſe Poſterity the Church
+was ſettled, How doth he complain that
+<hi>few and evil were the days of his Pilgrimage;</hi>
+yet they were full of Trouble, and the time
+of Trouble is called <hi>the day of</hi> Jacob<hi>'s Trou<g ref="char:EOLhyphen"/>ble;</hi>
+and ſo <hi>Job,</hi> Who more troubled and
+afflicted than he? And ſo <hi>David,</hi> that <hi>was
+a Man after God's own Heart,</hi> yet how doth
+he cry out? <hi>Lord, Remember</hi> David, <hi>and all
+his Troubles,</hi> Pſal. 132. 1.</p>
+            <p>
+               <hi>Queſt.</hi> But how comes it about that ſuch
+as are ſo Godly, are ſo ſorely afflicted?</p>
+            <p>
+               <pb n="5" facs="tcp:172638:8"/>
+               <hi>Anſw.</hi> Firſt, This comes from God him<g ref="char:EOLhyphen"/>ſelf.
+<hi>2dly,</hi> From Satan, the God of this
+World. <hi>3dly,</hi> From Satan's Inſtruments,
+the Men of the World. Laſtly, From them<g ref="char:EOLhyphen"/>ſelves,
+or their near Relations.</p>
+            <p>Firſt, This comes from God himſelf:
+For Afflictions riſe not out of the Duſt, but
+God ſends them, firſt to puniſh Sin paſt.
+<hi>2dly,</hi> To purge Sin preſent. <hi>3dly,</hi> To pre<g ref="char:EOLhyphen"/>vent
+Sin for the time to come.</p>
+            <p>Firſt, to puniſh Sin paſt: I know indeed
+that the Antinomians will not allow of ſuch
+an Expreſſion to be uſed in reſpect of God's
+own People and Children: They ſay God
+only puniſhes from Sin, and not for Sin in
+them: But doubtleſs we may ſpeak as the
+Word of God ſpeaks without offence; now
+ſays the Church, <hi>Lam. 3. 39. Wherefore doth
+the living Man complain, is it not for the Pu<g ref="char:EOLhyphen"/>niſhment
+of his Sin:</hi> And ſo <hi>Amos 3. 2. You
+only have I known of all the Families of the
+Earth; therefore I will puniſh you for all your
+Iniquities.</hi> One would have thought it ſhould
+rather have run thus, <hi>You only have I known
+of all the Families upon earth, therefore I will
+ſpare you for your Iniquities:</hi> No, but there<g ref="char:EOLhyphen"/>fore
+I will puniſh you for your Iniquities;
+you of all others ſhall be ſure to ſmart ſoon<g ref="char:EOLhyphen"/>neſt
+and ſoreſt here in this World. I confeſs
+that in a ſtrict Senſe they cannot ſo proper<g ref="char:EOLhyphen"/>ly
+be called Puniſhments as Chaſtiſements,
+<pb n="6" facs="tcp:172638:9"/>
+becauſe Chriſt hath born the Puniſhments
+of Believers Sins in his own Body upon the
+Tree, and when his Soul likewiſe was made
+a Sacrifice to ſatisfy the Juſtice of God for
+their Sin.</p>
+            <p>
+               <hi>2dly,</hi> God ſends Afflictions on his own
+People to purge Sin preſent: There are the
+Remnants of Sin and Corruption in the
+beſt of God's Children and Princes. Chil<g ref="char:EOLhyphen"/>dren
+if they be ſick, they muſt be Phyſickt
+as well as others: <hi>By this therefore,</hi> as it is
+<hi>Iſa. 27. 9. ſhall the Iniquity of</hi> Jacob <hi>be purged;</hi>
+and now there is a great difference between
+Phyſitians purging, and God's purging of
+his People and Children: When Phyſitians
+purge their Patients, they many times purge
+out the good Humours as well as the bad;
+but God when he purges his Children, he
+only purges out the bad Humours, as in the
+place we named before; and this is all the
+fruit, to take away his Sin; not to take the
+Sinner, but to take away his Sin.</p>
+            <p>
+               <hi>3dly,</hi> God ſends Troubles and Afflictions
+on his own People and Children to prevent
+Sin in them for the time to come, and to
+keep them within compaſs: You know
+what <hi>David</hi> ſaid of himſelf, <hi>Pſal. 119. Be<g ref="char:EOLhyphen"/>fore
+I was afflicted I went wrong, but now have
+I kept thy word, and kept in the right way:</hi>
+And therefore God threatens his Apoſtati<g ref="char:EOLhyphen"/>cal
+Church, <hi>Hoſea 2. 6. Therefore, behold, I
+<pb n="7" facs="tcp:172638:9"/>
+will hedge up thy way with Thornes.</hi> She was
+apt to break out into the Paſtures of forbid<g ref="char:EOLhyphen"/>den
+Pleaſures; therefore God would ſet
+Thornes in her paths, if ſhe would break
+over, ſhe ſhould prick and wound her ſelf;
+and if that would not do, God would make
+a Wall that ſhe ſhall not find her paths;
+Hedges may be eaſily troden down, but
+Walls are not ſo eaſily climbed over. Thus
+God threatens to do to his, when he intends
+to do them good; and Afflictions are not ſo
+properly ſaid to be threatned, as promiſed
+to God's own People and Children, as you
+may ſee <hi>Pſal.</hi> 89 30, 31, 32. therefore it is
+added the <hi>33d</hi> Verſe, <hi>Neither will I ſuffer my
+Faithfulneſs to fail;</hi> that is, in regard of ful<g ref="char:EOLhyphen"/>filling
+what before he had promiſed.</p>
+            <p>
+               <hi>4thly,</hi> Again, God orders it ſo that they
+ſhall have their days of Trouble here, that
+they may not ſet up their reſt in this World,
+as the other two Tribes and an half did on
+this ſide <hi>Jordan,</hi> as People are too apt to do
+when all things go well with them, and are
+apt to flow in upon them; then they are
+ready to talk of building Tabernacles here,
+and never think of going hence: But now
+that God may knock off their fingers from
+things below, and make them know that
+this is not their Reſt, God lets them meet
+with many Calamities and ſore Troubles,
+that ſo they may know that this is not their
+<pb n="8" facs="tcp:172638:10"/>
+Reſt, as God ſays to his own People, <hi>Mich.
+2. 10. Ariſe, and depart, this is not your Reſt,
+it is polluted;</hi> it is defiled with Sin, and can
+give you no more Reſt than a Bed of
+Thorns can do to a ſick Perſon. O! it is
+polluted, and therefore it muſt not be your
+Reſt. Sin hath polluted all things here in
+this World, therefore get you hence; tho'
+they ſhould combine altogether to do you
+good, yet they cannot give you perfect
+Reſt: When God made all things at firſt,
+he made them very good, and there was that
+in them then that might give Satisfaction to
+the Heart of Man; but now Sin hath pol<g ref="char:EOLhyphen"/>luted
+the Creature, and filled it with no<g ref="char:EOLhyphen"/>thing
+but Dirt and Filthineſs. Sin hath not
+only put our Mouths out of taſte that we
+can take no Contentment, or find any Sa<g ref="char:EOLhyphen"/>tisfaction
+in the Creature, but it hath emp<g ref="char:EOLhyphen"/>tied
+it of all that was truly good in it: So
+that now we have <hi>Carbones pro Theſauro,</hi>
+Coals inſtead of golden Mines; ſo that God
+doth this.</p>
+            <p>
+               <hi>5thly,</hi> That they may be weaned from
+the World, and from all wordly things;
+<hi>For the World paſſeth away, [1 Joh. 2. 17.]</hi>
+and we muſt paſs away that are in it; for
+we have here no abiding City, but yet the
+People of God are too apt to let out their
+Hearts and Affections on the things of this
+preſent World: If they have all ſorts of
+<pb n="9" facs="tcp:172638:10"/>
+Flowers in their Garden, they are too apt to
+make a Noſe-gay of them, and to hold them
+ſo faſt till they wither in their hand: when
+a full cup of Proſperity is fill'd out to them,
+God many times anoints the brim with A<g ref="char:EOLhyphen"/>loes,
+or ſome bitter thing, that they may not
+drink too long of it, nor too much: Some<g ref="char:EOLhyphen"/>times
+God beats their Plow-ſhares into
+Swords, and turns their Rods into a Ser<g ref="char:EOLhyphen"/>pent.</p>
+            <p>Again, God brings them into days of
+Trouble for the trial of their Graces, both
+for the trial,</p>
+            <p>Firſt, Of the Truth of them.</p>
+            <p>Secondly, Of the Strength of them.</p>
+            <p>Firſt, The Truth of them; hang heavy
+Weights upon rotten Boughs, and they break
+them; but upon green and ſound Boughs,
+and they bear them; unſound fruit will
+hang upon the Tree in a ſtill and calm day,
+but if it be ſtormy then down it falls. The
+building upon the Sand may make as fair a
+ſhew in a Sun-ſhine day, as that built upon
+the Rock; but when the Floods come, and
+the Winds blow hard, then down it falls,
+when the other ſtands. An unſound Foot
+may travel pretty well in ſoft and green
+Way, but when it comes upon the hard
+Stones, then it will be apt to boggle and
+<pb n="10" facs="tcp:172638:11"/>
+halt. It was the Sword that did diſcover to
+whom of right the Child did belong unto,
+<hi>1 Kings</hi> 3. 24. There be many that think
+their Graces are ſound and good, but when
+a Storm, or any Hardſhip comes, how full
+of Unbelief and Impatience, are they
+there. That God may try his People's
+Graces, whether they are ſound or no, he
+brings many ſtormy days over their heads;
+if Afflictions bring us nearer to God, it is a
+great ſign they are ſanctified to us; but if
+they drive us further from God, it is a great
+ſign that they are in Wrath, and not for our
+good. God ſpeaks to a Believer when he
+afflicts him, as <hi>Iſaac</hi> did to <hi>Jacob</hi> when he
+came to him for the Bleſſing; <hi>Come near me,
+my Son, that I may feel thee whether thou beeſt
+my very Son</hi> Eſau <hi>or no?</hi> So if they bring us
+nearer to God, and we endure them with
+patient ſubmitting to the Will of God with<g ref="char:EOLhyphen"/>out
+any muttering or repining, it is a great
+ſign that we are indeed the Children of
+God.</p>
+            <p>Secondly, He doth it alſo to try the
+Strength of their Graces: It muſt be a
+ſtrong Wing that muſt fly againſt the Wind,
+weak Grace will hardly bear up in a ſtrong
+day; <hi>If thou faint in the day of adverſity, thy
+Strength is ſmall,</hi> ſaith <hi>Solomon, Prov.</hi> 24. 10.
+To love God when he hears our Prayers,
+and anſwers our Prayers preſently, is no
+<pb n="11" facs="tcp:172638:11"/>
+great matter; but to continue praying, when
+he ſhuts out our Prayer, as he did the Chur<g ref="char:EOLhyphen"/>ches,
+<hi>Lam<g ref="char:punc">▪</g>
+               </hi> 3. 8. and appears as an Enemy,
+this argues ſtrength of Faith: It is an eaſy
+thing to love God when he ſmiles upon you
+with his Favours and Bleſſings; but to love
+him when he hath a Frown in his Brow,
+and a Rod in his Hand, this argueth
+ſtrength: That fire of Love burns hot, that
+many waters of Affliction cannot quench,
+or put it out. We read in <hi>Matth.</hi> 15. of a
+Woman that came to Chriſt with Words
+in her Mouth and Sorrow in her Heart, and
+all to move him to pity. At firſt he gave her
+no anſwer; afterwards his Diſciples are her
+Spokes-men in her behalf: After that Chriſt
+calls her Dog, yet ſhe will not give him o<g ref="char:EOLhyphen"/>ver;
+a Cure ſhe came for, for her Daughter,
+and a Cure ſhe muſt have afore ſhe goes
+away. She doth in a manner confeſs her
+ſelf a Dog, and doth but deſire the Favour
+that Dogs are apt to have at their Maſter's
+hands; a crum of his Charity. <hi>O Woman,</hi>
+ſays Chriſt, <hi>great is thy Faith!</hi> O! it is
+Strength of Faith that will truſt and reſt in
+Chriſt when he doth not anſwer, nay when
+he doth refuſe and reject, and ſeem to caſt off.</p>
+            <p>Again, the Children of God have their
+days of Trouble: That by this means God
+might humble them, and bring down the
+Pride of their Spirits, Pride and Ambition;
+<pb n="12" facs="tcp:172638:12"/>
+it is an ill Weed, and will not only grow in
+the vaſt howling Wilderneſs, but often it
+ſprings up in the Garden of God: Not on<g ref="char:EOLhyphen"/>ly
+wicked Men are guilty of this Sin, but
+ſometimes the Children of God are apt to
+be puft up with Pride, as we ſee it in <hi>Heze<g ref="char:EOLhyphen"/>kiah;</hi>
+nay they are apt to be puft up with
+their very Graces, as the Devil was with his
+Excellencies; and whereas their Graces
+ſhould be a means to keep them humble,
+they will be apt to grow proud of them, if
+they take not heed now to let out this blad<g ref="char:EOLhyphen"/>der
+of Pride. Sometimes there is ſent a
+Thorne in the Fleſh, as there was to <hi>Paul;</hi>
+and ſometimes God thruſts in the Sword of
+Affliction to let out the Corruption of this
+big-bellied <hi>Vicu:</hi> A Sword was ſent to pierce
+the Heart of the Bleſſed Virgin, that was
+ſo highly exalted, in all probabilty to keep
+her humble. It is the Speech of <hi>Elihu,
+Job 33. 17. He chaſteneth Man with pain,</hi>
+that he may hide Pride from Man: In the
+<hi>14th</hi> Verſe, <hi>God ſpeaketh once, yea twice.</hi> God
+ſpeaketh once by his Word, and again by
+his Sword; once by his Word, and Man
+heareth it not; and he ſpeaks again by his
+Rod, and all to hide Pride from Man, and
+that they may not think poorly of others in
+regard of themſelves.</p>
+            <p>Again, they meet with days of Trouble
+that they may be made conformable to Je<g ref="char:EOLhyphen"/>ſus
+<pb n="13" facs="tcp:172638:12"/>
+Chriſt, God's dearly beloved Son, ſo
+<hi>Rom.</hi> 8. 29. They are the Apoſtle's words
+there; That Chriſt and his Members may
+be all of a piece: The Children of God are
+not made choice of, and appointed unto
+Glory only, but they are alſo appointed un<g ref="char:EOLhyphen"/>to
+Conformity to Jeſus Chriſt: You know
+that whilſt he was God, he was in Glory;
+but when he became the Son of Man, he be<g ref="char:EOLhyphen"/>came
+a Man of Sorrows, and we hid our
+faces from him, as it is <hi>Iſa.</hi> 53. as if we were
+aſhamed of him. Trouble was as a Thred
+drawn thorow the whole courſe of his Life:
+Now that God's Children may be confor<g ref="char:EOLhyphen"/>mable
+to Chriſt, they meet with days of
+Trouble; they muſt be afflicted and miſ<g ref="char:EOLhyphen"/>uſed;
+for if they have done ſo to the green
+Tree, what will they not do to the dry, who
+is no better than fit Fuel to the everlaſting
+Fire?</p>
+            <p>Again, they meet with days of Trouble,
+that they may be the more put upon the
+Duty of Prayer; for times of Affliction are
+more properly times of Supplication and
+Prayer; <hi>Call upon me,</hi> ſays God, <hi>in the day
+of Trouble.</hi> Then God calls upon us to call
+upon him; and then we are more apt to do
+it, than at other times, as appears <hi>Iſa. 26. 16.
+Lord, in Trouble have they viſited thee, and have
+poured out a Prayer when thy chaſtening was
+upon them.</hi> At other times Prayer came
+<pb n="14" facs="tcp:172638:13"/>
+from them but ſparingly and droppingly;
+but <hi>when thy chaſtening was upon them, then
+they poured out a Prayer;</hi> then they even pour<g ref="char:EOLhyphen"/>ed
+out their Hearts before the Lord.</p>
+            <p>They meet with days of Trouble, that
+they might more ſweetly taſte of Peace:
+How ſweet is an hour's Reſt after many
+toilſome and troubleſome Nights. That we
+might reliſh Mercies the better, God doth
+oftentimes ſawce them with troubleſome
+Seaſons. O! How comfortable will a Ha<g ref="char:EOLhyphen"/>ven
+of Reſt be after troubleſome and dan<g ref="char:EOLhyphen"/>gerous
+Tempeſts at Sea, and ſo doubtleſs
+Heaven will be Heaven indeed to him that
+hath met with many Troubles and Afflicti<g ref="char:EOLhyphen"/>ons
+here in this World. But yet here is our
+Comfort here in this Life; Though the
+days are never ſo evil, yet God is always
+good, a ſtrong hold, to whom we may al<g ref="char:EOLhyphen"/>ways
+reſort, and knows all them that truſt
+in him. And that is the next thing I ſhall
+ſhew you, how then God is good, though
+Men and the Times are never ſo bad.</p>
+            <p>
+               <hi>1ſt.</hi> God is good eſſentially, yea God is
+Goodneſs it ſelf; and God muſt needs ceaſe
+to be when he ceaſes to be good, he ceaſes
+to be God.</p>
+            <p>
+               <hi>2dly.</hi> God is good efficiently; God is not
+only good, but he doth good, <hi>Pſal.</hi> 119. 68.
+As the Sun doth not keep in his Beams to
+<pb n="15" facs="tcp:172638:13"/>
+himſelf, but he ſpreads them abroad for the
+good of the Univerſe: So <hi>God is good to all,</hi>
+ſays the Pſalmiſt, <hi>Pſal. 145. 9. and his tender
+Mercies are over all his Works.</hi>
+            </p>
+            <p>
+               <hi>3dly.</hi> God is eminently good, and that to
+his own People. God is univerſally good:
+There is not any Creature in the World, but
+he doth partake of the Goodneſs of God: In
+ſome meaſure he makes his Sun to riſe upon
+the Juſt and the Unjuſt, and he makes his
+Rain to fall upon wicked Mens Fields, as
+well as upon the Fields of the Righteous.
+But God is in a more ſpecial manner good
+to them that be good; <hi>Truly God is good to
+Iſrael,</hi> ſays the Pſalmiſt, <hi>Pſal.</hi> 72. 1. to all
+that are of <hi>a clean Heart.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But is he not good to all? Did
+you not ſay he is good to all, may ſome ſay?
+I, but not with the ſame Goodneſs, not with
+ſaving Goodneſs; ſo he is good only to his
+Elect, and ſo he is eternally good to them,
+not only in this World, but alſo in the
+World to come; God ceaſes to be good to
+wicked Men in the World to come: <hi>Remem<g ref="char:EOLhyphen"/>ber
+Son,</hi> ſays <hi>Abraham</hi> to <hi>Dives, thou hadſt
+thy good things:</hi> I, thou hadſt them, but now
+thou haſt them not. But now God is good
+to his both in this World, and in the World
+to come.</p>
+            <p>
+               <pb n="16" facs="tcp:172638:14"/>
+Here in this World he is a Strong-hold to
+them, when Enemies and Evils are abroad,
+and a Houſe of Defence to which they may
+always reſort in the time of Need and Di<g ref="char:EOLhyphen"/>ſtreſs:
+God being a univerſal and perpetual
+good God, is all in all in every Condition:
+Bread is good to feed you, but it cannot
+clothe you. Again, Clothes are good to
+warm you, but they cannot feed you; but
+God is good every way: <hi>My God,</hi> ſays the
+Apoſtle, <hi>ſhall ſupply all your needs, according to
+his riches in Glory by Chriſt Jeſus,</hi> Phil. 4. 19.
+Not only ſome, but all your Needs, and he
+doth all after the beſt ſort; he is a Father,
+and the beſt Father; he is a Maſter, and
+the beſt Maſter; he is a Friend, and the
+beſt Friend; he is a Strong-hold, and the
+beſt Strong-hold: and the Excellency of this
+Strong-hold I ſhall endeavour to make out to
+you thus.</p>
+            <p>Firſt, He is a high Strong-hold; ſo high
+indeed, that none can reach him that is
+in this Strong-hold, or that hath God for his
+Strong-hold to defend him; he ſhall be ſo
+compaſt in with the Loving-kindneſs of God,
+that nothing ſhall do him hurt: His <hi>Dwel<g ref="char:EOLhyphen"/>lings
+ſhall be on high,</hi> ſays the Prophet, <hi>his
+Place of Defence ſhall be the Munitions of Rocks,
+Bread ſhall be given, his Waters ſhall be ſure,
+Iſa.</hi> 33. 16. See how God doth provide for
+<pb n="17" facs="tcp:172638:14"/>
+the Safety and Welfare of his, that <hi>he ſhall
+dwell on high,</hi> out of Gun-ſhot, and ſo out of
+Danger, for <hi>his place of defence ſhall be the
+Munitions of Rocks,</hi> or Rock within Rock:
+I, but Rocks, though they be good for fence,
+yet they be naught for food; it was the De<g ref="char:EOLhyphen"/>vil
+that would have Stones turned into
+Bread. I, but rather than a Believer ſhall
+ſtarve, he ſhall have Bread given: I, but
+may he not periſh there for want of Water?
+No, <hi>his Waters ſhall be ſure;</hi> ſo ſafe is he that
+hath God for his Strong-hold.</p>
+            <p>Secondly, God as he is a high Strong-hold,
+ſo he is a nigh Strong-hold; ſome
+may be cut off before they can get to their
+Strong-hold; their Strong-hold may be ſo
+far, that they may be never the better for
+their Strong-hold: But what ſays the Pſal<g ref="char:EOLhyphen"/>miſt
+concerning Almighty God, <hi>Pſal. 46. 1.
+God is our Refuge and Strength, a very preſent
+help in Trouble;</hi> not only a help, <hi>but a preſent
+help, yea a very preſent help in time of Trouble.</hi>
+            </p>
+            <p>Thirdly, God is a capacious Strong-hold,
+ready to receive all that fly unto him for
+Defence in the name of Chriſt; and as
+Chriſt ſays, <hi>He that comes unto me, I will in
+no wiſe caſt out, John</hi> 6. 37. So thoſe that
+come unto God by Chriſt, <hi>he will in no wiſe
+keep out,</hi> for there is Room and Entertain<g ref="char:EOLhyphen"/>ment
+enough to be found in him; ſome
+Strong-holds are ſo narrow and ſtraight, that
+<pb n="18" facs="tcp:172638:15"/>
+if many fly unto them, they are fain to hang,
+many of them, like Bees about the Hive's
+Mouth, and cannot get in: But whoever
+yet fled to God to hide him, and was not
+received and defended by him?</p>
+            <p>Fourthly, God is an inviſible Strong-hold,
+ſuch a Strong-hold as all their Enemies are
+not able to find out; and therefore all that
+flee unto him, and get into him, muſt needs
+be ſafe: We know when the Sodomites
+would have offered Violence to <hi>Lot,</hi> and to
+have pull'd him out of his Houſe, the Angels
+ſmote them with Blindneſs that they could
+not ſo much as find the Door, much leſs pull
+him out of his Houſe: So when the Syrians
+came with a great Army to carry away the
+Prophet <hi>Eliſha,</hi> and had compaſſed the City
+round, ſo that one would have thought there
+could have been no eſcaping, yet then <hi>Eli<g ref="char:EOLhyphen"/>ſha</hi>
+had an inviſible Guard; and though his
+Man could not ſee it at the firſt, yet after
+the Prophet had pray'd to God to open his
+Eyes, then he could ſee the Mountain full of
+Horſes and Chariots of Fire round about his
+Maſter.</p>
+            <p>Laſtly, To name no more Properties and
+Excellencies of this Strong-hold, God is an
+invincible Strong-hold; other Strong-holds
+are not able to hold out in the day of God's
+Anger; the leaſt puff or puſh of God's Diſ<g ref="char:EOLhyphen"/>pleaſure
+will thruſt them down. <hi>Nineveh</hi> that
+<pb n="19" facs="tcp:172638:15"/>
+ſtately City, that had Walls 100 foot high,
+and beautified with 1300 Towers: All her
+Strong-holds ſhall be like Fig-trees with the
+firſt ripe Figs, which when they are ſhaken,
+ſhall fall into the Mouth of the Eater: But
+who can overthrow ſuch a Strong-hold as
+God is, that is Almighty? <hi>Wo be to him that
+ſtrives with his Maker.</hi>
+            </p>
+            <p>
+               <hi>Uſe</hi> I. If God be ſuch an excellent Strong-hold,
+then ſee what a boſom you have here to
+flee unto; that whatſoever evil days come,
+yet if you have recourſe to him for your
+Strong-hold, you may be ſure to be ſafe; and
+take heed, I beſeech you, that you do not
+ſet up your Reſt in any thing on this ſide
+God. When it is a day of Trouble, as we
+are threatned with ſuch a day at this time,
+Counſel and Strength of Men and Horſes,
+and Ships, cannot be a Strong-hold for us
+without God. See what the Prophet ſays
+in the ſecond Chapter of <hi>Iſaiah, Ceaſe from
+Man, whoſe Breath is in his Noſtrils;</hi> and if
+Man muſt be ceaſed from, much rather
+muſt the things that Man hath made be cea<g ref="char:EOLhyphen"/>ſed
+from, as Ships and pleaſant Pictures, as
+the Prophet inſtances in that Chapter. Now
+there be theſe three things that may rap off
+your Fingers from the Creature, or making
+any thing your Strong-hold on this ſide
+God.</p>
+            <p>
+               <pb n="20" facs="tcp:172638:16"/>
+Now for this conſider,</p>
+            <p>1. The Inutility or Unprofitableneſs of
+all Creature-help in the day of Diſtreſs, in
+the day of God's Anger; for <hi>Riches profit no<g ref="char:EOLhyphen"/>thing
+in the day of God's Wrath,</hi> ſaith <hi>Solomon,
+Prov.</hi> 11. 4. But they many times make the
+Owner the more in danger, as the Gold
+Ring hath made ſome to looſe the Finger:
+<hi>And what ſhall it profit a Man,</hi> ſays our Sa<g ref="char:EOLhyphen"/>viour,
+<hi>to gain the whole World, and to looſe his
+own Soul.</hi> That were a Loſs above all other
+Loſſes; thou haſt better loſe thy Wife, thy
+Children, thy Houſe, thy Lands, nay, thy
+Life it ſelf, than looſe thy Soul; and yet thus
+many do to gain the World: But what
+Profit when they come to take away thy
+Soul? The things of this World have not ſo
+much Worth in them as to deliver your
+Souls from Death or Hell, or Damnation;
+ſo that it coſt more to redeem one Soul than
+all the World comes to: They have not ſo
+much worth in them as to ſatisfy one of
+your Debts; for no Man knows Love or
+Hatred by all that is before him; they have
+no power to pacify Conſcience in its Di<g ref="char:EOLhyphen"/>ſtreſs.</p>
+            <p>The things of this World prove many
+times lothing Torments to dying Chriſti<g ref="char:EOLhyphen"/>ans<g ref="char:punc">▪</g>
+and they are many times dying Com<g ref="char:EOLhyphen"/>forts
+to living Chriſtians.</p>
+            <p>
+               <pb n="21" facs="tcp:172638:16"/>
+2. The Mutability of the Creature:
+There is a great deal of Mutability in the
+Creature; you cannot ſay the Moon will
+ſhine two days together with the ſame face;
+ſo the things of the World are likened to the
+Moon, <hi>Rev.</hi> 12. 1. The Woman, that is the
+Church, is ſaid to have the <hi>Moon under her
+Feet; i. e.</hi> All worldly things.</p>
+            <p>Again, They are ſometimes likened to
+the Wind, <hi>Dan.</hi> 7. 2. ſays the Prophet there,
+<hi>I ſaw the four Winds ſtriving upon the Sea.</hi>
+And what were thoſe four Winds, but the
+four Monarchies, ſtriving upon the Sea of
+this World which ſhould be uppermoſt:
+And ſo as the Moon doth not ſhine two
+days together with the ſame face, no more
+are you ſure the Wind will blow two hours
+together in the ſame Quarter. The grateſt
+Monarchies and Kingdoms are but ſo many
+ſtormy and violent Winds; and will you
+make that your Strong-hold that is ſo ſubject
+to Alteration and Change? In a ſtormy day
+will you go to a Shadow for your Refuge
+or Shelter.</p>
+            <p>3. Beſides all this, there is a Corruptibili<g ref="char:EOLhyphen"/>ty
+in all theſe things; ſo the Apoſtle ſpeaks
+to this purpoſe, <hi>1 Pet.</hi> 1. 19. He calls there
+Silver and Gold corruptible things, which
+we are apt to account moſt durable: How
+may all the Glory of the World, which we
+are apt to account moſt ſhining and excel<g ref="char:EOLhyphen"/>lent,
+<pb n="22" facs="tcp:172638:17"/>
+be wink't into Blackneſs and Dark<g ref="char:EOLhyphen"/>neſs?
+All the Glory of Man is but as the
+Flower of Graſs: All <hi>Solomon</hi>'s Glory was
+but that of the Lilly, of very ſhort Continu<g ref="char:EOLhyphen"/>ance;
+the Flower may fade whilſt the
+Stalk yet ſtandeth, and yet that within a
+ſhort while will be caſt into the Oven: The
+Flower may be nipt in the Bub; but if it be
+let alone, it will fall of it ſelf, ſuch are Crea<g ref="char:EOLhyphen"/>ture
+Excellencies; and therefore I beſeech
+you do not ſet up your Cities of Refuge on
+this ſide God.</p>
+            <p>And for your further comfort, conſider
+how God knows ſuch as are in Trouble and
+truſt in him, and have Dependance upon
+him for Safety and Deliverance; if God's
+People could be in Adverſity, and God not
+know it, then their caſe would be ſad in<g ref="char:EOLhyphen"/>deed;
+but God knows what all your Ailes
+and Troubles are, and will certainly deliver
+you out of them all, if you depend upon him
+and truſt in him.</p>
+            <p>
+               <hi>Queſt.</hi> But are there not many that are
+Believers, that are cut off in their Troubles
+and Straits, as good <hi>Joſiah</hi> and others?</p>
+            <p>
+               <hi>Anſw.</hi> There are ſeldom any that in the
+height of their Dependance upon God, that
+have acted Faith, and fully relied upon him
+for Deliverance, that have been cut off: For
+you muſt know that it is one thing to have
+<pb n="23" facs="tcp:172638:17"/>
+Faith, and another thing to act Faith; as it
+is one thing to have a Sword, and another
+thing to uſe it: Many a one may be cut off
+for not uſing of his Sword; whereas if he
+had uſed it, very like he might have eſcap'd;
+and it is a Saying of the Pſalmiſt concern<g ref="char:EOLhyphen"/>ing
+the goldly Man, <hi>Pſal. 112. 7. He ſhall
+not be afraid of any evil tydings:</hi> Why? <hi>His
+Heart is fixed, truſting in the Lord.</hi> All the
+while he acts his Faith on God, he hath no
+cauſe to fear: So that this further informs us
+that the Wicked ſhall never beat Believers
+out of heart, for in the worſt times they
+have a Strong-hold; a good God to run
+unto, and ſo ſhall they be ſaved from all
+their Enemies: When they are in the great<g ref="char:EOLhyphen"/>eſt
+danger, ſtill they have a God that takes
+Cognizance of them, when it may be their
+Friends and neer Relations will take no no<g ref="char:EOLhyphen"/>tice
+of them: <hi>Thou haſt known my Soul in Ad<g ref="char:EOLhyphen"/>verſities,</hi>
+ſaith <hi>David, Pſal.</hi> 31. 7. If they
+could be in Adverſities, and God not know
+it, it would then be a ſad thing indeed; but
+God knows whatſoever Adverſities you are
+in, and will doubtleſs deliver his: I, but are
+not many of them cut off by Death? I an<g ref="char:EOLhyphen"/>ſwer;
+God will be ſo good to them as to de<g ref="char:EOLhyphen"/>liver
+them from Death or by Death, and
+therefore the day of Death is better to them
+than the day of their Birth; for when they
+are born, then they come into Trouble, but
+<pb n="24" facs="tcp:172638:18"/>
+when they die then they come out of Trou<g ref="char:EOLhyphen"/>ble;
+and it is better to come out of Trou<g ref="char:EOLhyphen"/>ble,
+than to come into Trouble. This is
+the Comfort that they have that truſt in
+God: God knows them, and knows how to
+deliver them when they do not know how
+to deliver themſelves; <hi>We know not what to
+do,</hi> ſays <hi>Jehoſhaphat, 2 Chron.</hi> 20. 12. I, but
+God knows what to do, and how to deliver
+his, and to reſerve the Wicked for the day
+of Wrath: For this Knowledg of God,
+whereby he knoweth his, is not a bare
+ſpeculative Knowledg, as he knoweth all
+things, but as ſpecial Knowledg, as if he
+knew none in the World beſide; as God ſaid
+concerning his own People, <hi>Amos 3. 2. You
+have I known of all the Families upon Earth;</hi>
+and as God ſaid to <hi>Moſes, Thee have I known
+by name:</hi> As if God knew none in the
+World beſides after ſuch a ſort; and there<g ref="char:EOLhyphen"/>fore
+he hath his Marks whereby he diſtin<g ref="char:EOLhyphen"/>guiſhes
+between his own People and others:
+So <hi>Ezekiel</hi> 9. a Mark is ſet upon them that
+mourn; as if he did, and would know them
+from all the People on the Earth: So
+<hi>2 Tim. 2. 19. The Lord knoweth who are his;</hi>
+for it is indeed a Knowledg that doth im<g ref="char:EOLhyphen"/>ply
+Love and Affection to the Party that
+he knows; and therefore, <hi>John</hi> 10. 10.
+Chriſt is ſaid to know his Sheep. Why did
+he not know the Goats, wicked and un<g ref="char:EOLhyphen"/>godly
+<pb n="25" facs="tcp:172638:18"/>
+Men? Yes, doubtleſs he did; but he
+did not know them with that Love and
+Care, and Affection, as he did his Sheep;
+and beſides, it is ſuch a Knowledg as doth
+imply Approbation; ſo <hi>Pſal.</hi> 1. and the laſt
+Verſe, <hi>The Lord knoweth the way of the Righ<g ref="char:EOLhyphen"/>teous.</hi>
+Why, doth he not know the way of
+the Unrighteous too? Yes, doubtleſs he
+doth: Can they walk in ſuch a ſecret Path,
+that God cannot find them out? Nay,
+there is not a Way of their Feet, a Work
+of their Hands, a Word of their Mouths,
+or a Thought of their Hearts, but it is bet<g ref="char:EOLhyphen"/>ter
+known to God than to themſelves;
+who is indeed the Father of Lights, and
+will doubtleſs in his good time, bring
+to light all the hidden Works of Dark<g ref="char:EOLhyphen"/>neſs,
+and Diſhoneſty and Cruelty, though
+never ſo cunningly contrived, as he hath
+done of late, to the Shame and Confuſion
+of the Plotters: But as they have conceiv<g ref="char:EOLhyphen"/>ed
+Miſchief, let us conceive Praiſe, and let
+us be often doing that Work upon Earth
+which we ſhall be always doing in Heaven.
+And to encourage you to the Duty, con<g ref="char:EOLhyphen"/>ſider
+that it is a greater matter to praiſe God
+here upon Earth, in the midſt of Enemies,
+than to praiſe God in Heaven, where all
+Enemies are ſubdued, and all Happineſs
+enjoyed, and none but ſuch as will help for<g ref="char:EOLhyphen"/>ward
+the Work, and none that will hinder
+<pb n="26" facs="tcp:172638:19"/>
+it, as here are too many here. And that
+you may not be afraid of your Adverſaries,
+or diſcouraged from truſting in God, con<g ref="char:EOLhyphen"/>ſider,
+though your Enemies carry it out for
+the preſent with a great deal of Splendour
+and Bravery, yet they are but Men, and
+Men <hi>whoſe Breath is in their Noſtrils;</hi> and
+when God takes it away, they die and can<g ref="char:EOLhyphen"/>not
+withſtand God's ſtroak: Many thou<g ref="char:EOLhyphen"/>ſands
+of them have been cut off in theſe Wars
+already, that look'd upon themſelves as
+brave Fellows.</p>
+            <p>And beſides, they are on that ſide that
+muſt fall: God hath ſaid it<g ref="char:punc">▪</g> that Antichriſt
+and his Adherents muſt be deſtroyed, and
+it ſhall certainly come to paſs; for hath the
+Lord of Hoſts ſaid it, and ſhall he not do it,
+whoſe Word is his Work? <hi>I will work ſays
+God, and who ſhall let it.</hi>
+            </p>
+            <p>Beſides, as <hi>Abijah</hi> told <hi>Jeroboam, With you
+are the Golden Calves;</hi> and ſo with our Ad<g ref="char:EOLhyphen"/>verſaries
+are graven Images, and they are
+ſuch as have forſaken God, and defiled his
+true Worſhip, and God hath forſaken them;
+and let ſuch be our Enemies, as many, and
+as much as they will, if we have but God
+on our ſide, we ſhall do well enough.</p>
+            <p>Again, Conſider, that you may not be
+offended at their outward Bravery and
+Splendour, how the triumphing of the
+Wicked is but ſhort, but their end will be
+<pb n="27" facs="tcp:172638:19"/>
+that they ſhall periſh for ever; and on the
+other ſide, though the Godly are afflicted,
+yet they are not deſerted as the Ungodly
+are; though they are caſt down, yet they
+are not caſt off. <hi>Saul</hi> and <hi>David</hi> they were
+both afflicted, and greatly diſtreſſed: <hi>Saul</hi>
+in his Diſtreſs he runs to a Witch; <hi>O!</hi> ſays
+<hi>Saul, I am ſorely diſtreſſed:</hi> Why ſo? Why
+<hi>the Philiſtines make War againſt me:</hi> Why ſo
+they had done formerly, and yet <hi>Saul</hi> did
+then well enough. I, but ſays he, <hi>and God
+is departed from me.</hi> I, there was the cauſe,
+there lay the Core of all his Miſeries; for
+this is like the dropping of the Eyes out of
+the Head, the darkning of the Sun in the
+Firmament, the departing of the Soul out
+of the Body: Now <hi>David</hi> likewiſe, he was
+greatly diſtreſſed for the City <hi>Ziglag,</hi> where
+his Treaſure was that was burnt, and his
+Wives they were carried away Captives,
+and the People likewiſe they were ready to
+ſtone him; ſo that his Treaſure was gone,
+his Wives were gone, and the Hearts and
+Affections of his People were gone off from
+him. What doth he do now? Doth he go
+to a Witch, or uſe any unlawful means, as
+<hi>Saul</hi> did? No, he goes and encourages him<g ref="char:EOLhyphen"/>ſelf
+in the Lord his God, and you ſee how
+bravely he comes off afterward.</p>
+            <p>Hence we may ſee the Excellency of
+Faith, and how Believers having ſuch a
+<pb n="28" facs="tcp:172638:20"/>
+Strong-hold, ſhall never be beat quite out
+of heart, having ſo good a God to relie up<g ref="char:EOLhyphen"/>on;
+for though their Enemies threaten and
+rage never ſo much, yet Believers have di<g ref="char:EOLhyphen"/>vers
+Props to ſtay and uphold their Hearts
+in days of Trouble, and to cauſe them not
+to be diſmaid, but ſtill have cauſe to truſt in
+God: As,</p>
+            <p>
+               <hi>1ſt.</hi> That the Devil and his Inſtruments,
+wicked Men, they are all in the hand of
+God, and they can do no more againſt them
+than God gives them leave: It is true, God
+ſometimes lets out a Link or two of the De<g ref="char:EOLhyphen"/>vil's
+Chain, but ſtill he keeps the Chain in
+his own hand, that he nor his cannot do
+ſo much Miſchief as otherwiſe they
+would.</p>
+            <p>
+               <hi>2dly.</hi> When you are in any danger, you
+muſt act Faith upon God; ſo the Prophet
+reſolves to do, <hi>Pſalm 56. 3. What time I am
+afraid, I will truſt in thee:</hi> Now that you
+may be able to act Faith aright,</p>
+            <p>1. You muſt labour to have a right
+Knowledg of God, and of what God is;
+for you cannot ſtay your Minds, and truſt
+in him whom you do not know, and have
+no Acquaintance with him: As one ſaid
+ſometime to a Gentlemen that was walking
+in <hi>Pauls, Pray lend me ten Pounds: Ten Pounds,</hi>
+ſays the Gentleman, <hi>why I do not know you.</hi>
+               <pb n="29" facs="tcp:172638:20"/>
+Says the other, <hi>If you did, you would hardly
+lend me ten Shillings.</hi> Some are better known
+than truſted, but ſo is not God; but the
+more you know him, the more apt you
+will be to truſt in him, ſo <hi>Pſal.</hi> 9. 10. eſpe<g ref="char:EOLhyphen"/>cially
+if it be an experimental Knowledg;
+ſo <hi>Pſal. 22. 4. Our Fathers truſted in thee;
+they truſted, and thou didſt deliver them:</hi> And
+ſo if we, their Poſterity, truſt in God, God
+will deliver us; <hi>They cried unto thee,</hi> ſaith
+the Church, <hi>and were delivered; they truſted
+in thee, and were not confounded:</hi> So doubt<g ref="char:EOLhyphen"/>leſs
+if we cry unto our Forefathers God, we
+ſhall be delivered; if we truſt in him, and
+have recourſe to him, we ſhall not be con<g ref="char:EOLhyphen"/>founded:
+But confounded ſhall they be that
+worſhip carved Images; as it is plain our
+Adverſaries do. Well, but what is it that
+we muſt know of God more eſpecially,
+that we may be brought to truſt in him,
+and depend upon him in a day of Di<g ref="char:EOLhyphen"/>ſtreſs?</p>
+            <p>
+               <hi>1ſt.</hi> God's Power, that he is able to
+help and to defend his People, whatſoever
+their Diſtreſſes and their Adverſaries are;
+you muſt mightily work this upon your
+Spirits, the Conſideration of the Power and
+Greatneſs of God; therefore you have the
+Greatneſs of God wonderfully ſet out in the
+foregoing part of this Chapter, for God
+<pb n="30" facs="tcp:172638:21"/>
+will not imploy his Greatneſs againſt his
+People, but for his People's good. As alſo
+you are to take notice of the All-ſufficiency
+of God, how he is able to ſave to the ut<g ref="char:EOLhyphen"/>termoſt
+all ſuch as put their truſt in him.</p>
+            <p>When <hi>Abraham</hi> was as a poor Pilgrim,
+and went from one Kingdom to another
+People, to ſupport his Faith, God tells him,
+<hi>I am God;</hi> All-ſufficient, walk before me,
+and be thou perfect, and then he need not
+be afraid: We can never ſtay our Minds,
+and truſt in God ſo well as we ſhould, un<g ref="char:EOLhyphen"/>leſs
+we relie upon God as a God All-ſuffi<g ref="char:EOLhyphen"/>cient,
+that is able to ſuccour us in every
+Caſe and Condition. See what ſupported
+the three Children, as they are commonly
+called, againſt the Wrath of the great King,
+<hi>Dan</hi> 3. 17. they ſtay their Minds greatly on
+God; <hi>Our God,</hi> ſay they, <hi>is able to deliver
+us:</hi> They did not fear the Wrath of the
+great King, becauſe, with <hi>Moſes</hi> by an Eye
+of Faith, they ſaw him that was inviſible;
+they knew they had an invincible Strong<g ref="char:EOLhyphen"/>hold
+to reſort unto, a good God that was
+able to deliver them, how, and as he plea<g ref="char:EOLhyphen"/>ſed.
+Now when you diſtruſt God's Power,
+you do as it were tie up the hands of Om<g ref="char:EOLhyphen"/>nipotency.
+It is ſaid, <hi>Mark</hi> 6. 5. our Savi<g ref="char:EOLhyphen"/>our
+could do no mighty Works there, be<g ref="char:EOLhyphen"/>cauſe
+of their Unbelief: God doth there<g ref="char:EOLhyphen"/>fore
+wonderfully tutor his Children about
+<pb n="31" facs="tcp:172638:21"/>
+the Conſideration of his Power, as you may
+obſerve in Scripture. When God promiſes
+to appear in the way of ſaving and deli<g ref="char:EOLhyphen"/>vering
+his People, he doth very much inſiſt
+on this, what a powerful God he is, able to
+do above what they are able to ask or
+think, that ſo their Faith might be well
+grounded upon a good foundation; ſee for
+this a place or two, <hi>Iſa.</hi> 40. 9, 10. There
+the Prophet ſpeaks by way of promiſe, that
+<hi>the Lord God would come;</hi> i. e. to comfort
+and relieve his People: He tells them he
+<hi>would come with a ſtrong hand,</hi> and as it were
+with an out-ſtretched arm, <hi>and his arm ſhall
+rule for him:</hi> And he further inſiſts upon
+this thing, and maketh it the great Theam
+that he goeth upon. If you read the <hi>12th</hi>
+Verſe of this Chapter, you ſhall find that
+he had a ſtrong Hand indeed, and an Arm
+ſtretched out, in that he was able to hold all
+the Waters of the Sea, and to meaſure out
+Heaven, which is, <hi>locus omnium Spacioſiſſimus,</hi>
+with a Span, and that he was able to weigh
+the Mountains in Scales, and the Hills in a
+Balance; <hi>Behold,</hi> ſaith he, <hi>the Nations:</hi> By
+Nations we are to underſtand great Coun<g ref="char:EOLhyphen"/>tries
+and Kingdoms; <hi>What are they but as
+a drop of the Bucket, and as a ſmall duſt of
+the Balance? Behold, he taketh up the Iſles as
+a very little thing.</hi> As this Iſle, which we
+call <hi>Great Britain,</hi> is a very little thing in
+<pb n="32" facs="tcp:172638:22"/>
+the hands of Almighty God; and when he
+comes to the <hi>26th</hi> Verſe, there he calls up<g ref="char:EOLhyphen"/>on
+them to <hi>lift up their eyes, and to behold
+him who hath created theſe things;</hi> ſo great
+and ſo many, <hi>that bringeth out their hoſt by
+number:</hi> He muſt needs be great himſelf,
+that hath made ſo many, and ſuch great
+things. And thus he goeth on to ſet forth
+the Power and Greatneſs of God, to be a
+ſupport to the Faith of his People: <hi>I have
+wondred,</hi> ſaith a Godly and Learned Man,
+<hi>that reading of Scripture in my younger years,
+there ſhould be ſuch a ſuddain Digreſſion to the
+Power of God, as there is; and now I ſee there
+is a great deal of reaſon for it, to ſtrengthen
+the Faith of his People, that they firmly believe
+his Promiſes;</hi> as you may find, if you obſerve,
+in many other places: So you have the
+Power of God ſet forth in this Chapter.</p>
+            <p>
+               <hi>2dly.</hi> If you would truſt in God, and
+depend upon him in <hi>the day of trouble</hi> and
+diſtreſs; as you muſt be very well princi<g ref="char:EOLhyphen"/>pled
+in the Power, ſo alſo in his Willing<g ref="char:EOLhyphen"/>neſs
+and Readineſs to ſuccour and to receive
+you, and ſo to ſave you in the time of Dan<g ref="char:EOLhyphen"/>ger
+and Diſtreſs. Some have Power to do
+good, but they have no heart to do it; you
+muſt conſider, as there is an Ability in God
+to do good, ſo there is a Propenſity to do
+good: There is a very great Inclination in
+God to help and to ſave his afflicted Ones.
+<pb n="33" facs="tcp:172638:22"/>
+obſerve, I pray, how the Scripture ſpeaks
+to this, <hi>Pſal.</hi> 46. 1. It was at ſuch a time
+when there was great Dread upon the face
+of the Earth. The Prophet ſeems to re<g ref="char:EOLhyphen"/>preſent
+it ſo; as if the Earth ſhould totter
+and be removed, and the Mountains car<g ref="char:EOLhyphen"/>ried
+into the midſt of the Sea, and the Wa<g ref="char:EOLhyphen"/>ters
+roar and make a hideous noiſe, and all
+things in a hurly-bury; yet there was no
+cauſe for ſuch as truſt in God to fear, for
+<hi>God is our Refuge and Strength,</hi> ſay they, <hi>our
+Strong-hold, a very preſent Help in trouble.</hi>
+He is not only a Help, but a preſent Help;
+yea, <hi>a very preſent Help in trouble.</hi> The
+great Willingneſs of God the Lord to ap<g ref="char:EOLhyphen"/>pear
+for them, appears in his Readineſs to
+appear to them, if we do but call upon him
+and cry to him; and he can do but little
+that cannot cry for help. Now <hi>Pſalm</hi> the
+86. 7. ſays the Prophet, <hi>In the day of my
+Trouble I will call upon thee; for thou wilt
+anſwer me.</hi> The God of a true Believer is
+not like the God of <hi>Baal</hi>'s Prieſts, upon
+whom they called from Morning even till
+Noon, ſaying, <hi>O Baal, hear us:</hi> But there
+was no Voice, nor any that anſwered; no
+more there would have been if they had
+prayed never ſo long; if he had prayed
+till Doomſday, it had been all one: But
+no ſooner doth the true Prophet pray, but
+preſently Fire comes down from Heaven,
+<pb n="34" facs="tcp:172638:23"/>
+and conſumes the Sacrifice, for the Con<g ref="char:EOLhyphen"/>fuſion
+of the Churches Adverſaries. And
+how doth the Prophet promiſe to himſelf,
+in the fore-named place, how God would
+hear him? Which he could not have done,
+but that he was aſſured of his Willingneſs
+ſo to do; for he doth not ſay, <hi>the Lord
+can hear me,</hi> but <hi>the Lord will hear me:</hi>
+And he ſaith nothing but what he hath a
+Promiſe for upon the Performance of the
+foreſaid Duty. Nay further, to ſhew his
+Readineſs and Willingneſs to hear and help,
+it is ſaid in one place, <hi>That before they call,
+I will anſwer; and while they are yet ſpeak<g ref="char:EOLhyphen"/>ing,
+I will hear.</hi> So no ſooner did the Le<g ref="char:EOLhyphen"/>per
+ſay, <hi>Matth. 8. 2. Lord, if thou wilt thou
+canſt make me clean;</hi> but preſently Chriſt
+replies, <hi>I will, be thou clean;</hi> as if he eccho<g ref="char:EOLhyphen"/>ed
+back the ſame words; and immediately
+ſays the Text, <hi>his Leproſie was cleanſed:</hi>
+And that there is a great deal of Readineſs
+and Willingneſs in God to help, you muſt
+conſider how God doth take ſpecial no<g ref="char:EOLhyphen"/>tice
+of the Trouble and Afflictions that
+his People lie under, and how he is apt to
+lay it to heart; for in all their Afflictions
+he is afflicted; <hi>I have ſurely ſeen,</hi> ſays God,
+<hi>the Affliction of my People, and have heard
+their Cry,</hi> Exod. 3. 7. It is not with him,
+as it is with ſome that paſs by ſuch as are
+in Miſery, and take little or no notice of
+<pb n="35" facs="tcp:172638:23"/>
+their Trouble, as the Prieſt and Levite that
+ſaw the Man wounded and half dead, and
+there let him lye for all them. But if God's
+People are never ſo little wronged, he is
+preſently concerned; if they are reproach<g ref="char:EOLhyphen"/>ed,
+they are reproached in his ſight: He
+takes it as done to himſelf; <hi>He that touch<g ref="char:EOLhyphen"/>eth
+you,</hi> ſays God, <hi>toucheth the Apple of mine
+Eye,</hi> Zach. 2. 8. So he that perſecuteth
+the People of God, it is as if he did per<g ref="char:EOLhyphen"/>ſecute
+Chriſt himſelf, <hi>Acts</hi> 9. 5. And all
+the Rage that they expreſs againſt the
+People of God, it is ſet down as done
+againſt God himſelf; <hi>I know,</hi> ſays God,
+<hi>thy abode, and thy going out and thy coming
+in, and thy Rage againſt me:</hi> It is all down
+in black and white, what the World doth
+for, or againſt his Children.</p>
+            <p>
+               <hi>3dly.</hi> God doth not only look on his
+Peoples Affliction, but it is the lovingeſt
+Look, and with as much Compaſſion, as
+poſſible may be imagined; as you may
+ſee <hi>Pſal. 103. 13. Like as a Father pitieth
+his Children, the like Pity doth the Lord
+ſhew to thoſe that are his:</hi> His Look ſhews
+his Love, as you may ſee <hi>Exod.</hi> 2. 23, 25.
+It pierces his very Heart, to hear their
+Sighs, and to ſee their Miſeries: So their
+Sorrows came up when his People were
+afflicted in <hi>Egypt;</hi> it is ſaid in the place
+named before, that the Children of <hi>Iſrael</hi>
+               <pb n="36" facs="tcp:172638:24"/>
+ſighed by reaſon of their hard Bondage,
+and God heard their groaning, and re<g ref="char:EOLhyphen"/>membred
+his Covenant, which was to be
+a Friend to their Friends, and an Enemy
+to their Enemies; and God looked upon
+the Children of <hi>Iſrael.</hi> How, I pray, did
+he look? Why he had reſpect unto them,
+though their Enemies did nothing regard
+them, no not ſo much as a Man would
+regard his Beaſt. Again, God declares his
+Willingneſs in regard he commands his
+People to come to him, and call upon him
+in <hi>the day of trouble;</hi> and tells them with<g ref="char:EOLhyphen"/>al,
+that unleſs they do thus, they are like
+to go without his help: For thus he tells
+his own People, <hi>Ezek. 36. 37. I will for
+this be enquired of by the houſe of</hi> Iſrael <hi>to
+do it for them;</hi> for God would not have
+his People to ſeek his face in vain. And
+in another place God complains, <hi>Thou
+haſt not called upon me, O Jacob,</hi> Iſa. 43. 21.
+You know if a Man be not willing to help,
+if he have power, yet if he have no mind
+to help, a poor Creature cannot with any
+face go to him: but God is ſo far from
+diſcouraging any from coming to him,
+that he invites them to come, and aſſures
+them that if they come, <hi>he will in no wiſe
+caſt them out:</hi> And indeed commands them
+for to come, and commands Silence in
+Heaven till his People tell their Tale;
+<pb n="37" facs="tcp:172638:24"/>
+and doth bow down his Ear to hear
+what his People can ſay for themſelves,
+and as a Parent to his Child, <hi>O! what
+wouldſt thou have?</hi>
+            </p>
+            <p>If God were not willing to help, he
+would ſay, as he did to the Wicked, <hi>Pſal.
+50. 16. What haſt thou to do?</hi> With my
+Word you ſhall not take my Name in
+your Mouth; or if you do, it ſhall be in
+vain; if you make many Prayers, I will
+not hear you. But he readily grants the
+Requeſts of his People: <hi>O!</hi> ſays the Pro<g ref="char:EOLhyphen"/>phet,
+<hi>he will be very gracious to thee at the
+Voice of thy Cry; when he ſhall hear it, he
+will anſwer thee,</hi> Iſa. 30. 19. So no ſooner
+did <hi>Daniel,</hi> 10. 12. ſet himſelf to ſeek
+God, but his words were heard: So when
+we ſeek God by Prayer, as we ought to
+do, God will ſend Mercy poſt haſte to his
+People: Now would he doth us, if he were
+not willing to help them, and to be a Srong<g ref="char:EOLhyphen"/>hold
+to them.</p>
+            <p>
+               <hi>4thly.</hi> If you would truſt in God aright,
+you muſt clear up your Intereſt in God;
+That this God that is thus able and
+willing to help and defend, is your God;
+That you can claim an Intereſt in him,
+and that you are his; That he knows
+you to be his Friends and Acquaintance
+by your often coming to him, and that
+you know him to be your Father in
+<pb n="38" facs="tcp:172638:25"/>
+Chriſt: You will never come to cloſe
+with God with any Confidence, when
+you come to have need of him, un<g ref="char:EOLhyphen"/>leſs
+you can clear up your Intereſt in
+him; otherwiſe here will be apt to come
+in diſmaying Thoughts. I know indeed
+that God can ſave me, and can defend
+me; but can I ſay, upon good grounds,
+as the Prophet did, <hi>I am thine, ſave me?</hi>
+I have ſo often ſinn'd againſt him, that I
+have great cauſe to queſtion whether this
+God be my God; this will turn back the
+Milk in the Breaſt of the Promiſe: The
+Scripture doth wonderfully declare this,
+as in the <hi>Pſalm 48. ult. This God is
+our God:</hi> as if no others had any intereſt
+in him: And ſo <hi>Pſal. 67. 6. God even our
+own God ſhall bleſs us;</hi> and ſo <hi>Iſa. 25. 9.
+Lo, this God is our God, we have waited for
+him, and he will ſave us; we will rejoice,
+and be glad in his Salvation.</hi> This was
+that ſtayed their Minds up, and kept them
+from deſpair; and ſo this was that kept
+up the Spirits of thoſe three Worthies,
+<hi>Dan.</hi> 3. 17. They firſt lay claim to God,
+and clear up their Intereſt in him, and
+then they conclude, <hi>he will ſave us out of
+thine hand, O King;</hi> and ſo he did. So
+when there was ſuch a mighty Army and
+great Multitude came out againſt <hi>Jehoſha<g ref="char:EOLhyphen"/>phat,</hi>
+and againſt his People, what do they
+<pb n="39" facs="tcp:172638:25"/>
+then but clear up their Intereſt in God?
+<hi>Art not thou our God,</hi> ſay they, <hi>2 Chron.
+20. ver.</hi> 7. and then <hi>ver. 12. O our God,
+wilt thou not judge them.</hi> Which words are
+to be reſolved affirmatively; <hi>Thou being,
+our God, wilt certainly judge them, and avenge
+our cauſe;</hi> and ſo he did. So that when
+you have cleared up your Intereſt in God
+in <hi>a day of trouble,</hi> then ſet Faith on work
+without Fear; labour fully to relie upon
+God, and to truſt in him: Be the Trou<g ref="char:EOLhyphen"/>bles
+as many, and as great as may be, yet
+believe that you have a God that is able
+to defend you, and to deliver you out of
+them all. Know this, that it is the un<g ref="char:EOLhyphen"/>reaſonableſt
+thing in the World, after thou
+haſt cleared up that thou haſt a real In<g ref="char:EOLhyphen"/>tereſt
+in God, to doubt that he will deli<g ref="char:EOLhyphen"/>ver
+thee, or take thy part, or be graci<g ref="char:EOLhyphen"/>ous
+to thee, when thou haſt made out
+to thy ſelf that thou haſt an Intereſt in
+him. Would it not be an unnatural thing
+for a Child that hath had Experience of
+his Father's Kindneſs to him, and ready
+to relieve any that hath come to him
+when they have been in diſtreſs, now for
+this Child to doubt of his Help? and to
+ſay, If I were in want, would my Father
+relieve? If I were purſued by an Enemy
+to my Father's Door, would he receive
+me? Were I in the Water ready to be
+<pb n="40" facs="tcp:172638:26"/>
+drowned, would he help me out? Or
+were I fallen in the Fire, would my Father
+pluck me out? Surely if thou canſt find
+upon good grounds, that God is thy God,
+and thy Father in Chriſt, and taken poſſeſ<g ref="char:EOLhyphen"/>ſion
+of thy Soul, would it be a ſeemly
+thing for thee to reaſon thus? If I were
+poor or deſpiſed in the World, would God
+own me or know me? Yes, if you own
+and acknowledg him to be your God
+Doth not the Text ſay, that <hi>he knows them
+that truſt in him?</hi> be they never ſo poor
+or mean in the World. We read of Be<g ref="char:EOLhyphen"/>lievers
+in <hi>Heb.</hi> 11. 37. how <hi>they wandred
+about in ſheeps-skins and goat-skins, being de<g ref="char:EOLhyphen"/>ſtitute,
+afflicted, tormented;</hi> and yet it is ſaid
+in the ſame Chapter, at <hi>ver. 16. God is
+not aſhamed to be called their God:</hi> For they
+are the Poor chiefly that put their Truſt
+in God, that have nothing elſe to truſt
+too; ſo <hi>Zeph. 3. 12. I will leave in the midſt
+of thee a poor People, and they ſhall truſt in
+the name of the Lord.</hi> And the <hi>Widow be<g ref="char:EOLhyphen"/>ing
+deſolate,</hi> ſaith the Apoſtle, <hi>1 Tim. 5. 5.
+truſteth in God:</hi> Before, whilſt ſhe had a
+Husband, ſhe relyed on him; but being
+deſolate, and having none to regard her,
+or to provide for her, ſhe truſts in God,
+and God knows all them that truſt in him,
+be they never ſo poor; it is not Poverty
+ſhall part God and a Believer: As it is
+<pb n="41" facs="tcp:172638:26"/>
+ſtoried of Mr. <hi>Fox,</hi> that wrote the Book
+of Martyrs; being asked, Whether he did
+not know ſuch as were but poor in Eſtate
+and mean in Perſon, but godly in their
+Lives and Converſations? <hi>O!</hi> ſays he, <hi>I
+forgot Lords and Ladies to remember ſuch:</hi>
+So God, though he be High, yet hath he
+reſpect to the Lowly; the moſt High hath
+moſt reſpect to the moſt Low, and over<g ref="char:EOLhyphen"/>looks
+the Proud and Stately; and though
+he ſits upon a moſt high Throne, yet doth
+he look with a Look of Favour and Love
+to him that is poor, <hi>and of a contrite Spi<g ref="char:EOLhyphen"/>rit,</hi>
+and that trembles at, and truſts in
+his Word; and therefore away theſe
+Doubts: If I be poor, will God own me:
+Or if I be in ſtreights, will he relieve
+me? Or if I be in danger, will he be a
+Strong-hold, or a Place of Refuge to me?
+Away with all theſe If's and Doubts;
+ſet thy Faith on work, and fall flatly to
+believing. Thus did the Father of the
+Faithful, ſetting Faith on work without
+Fear, and ſtaying himſelf on God, as ma<g ref="char:EOLhyphen"/>king
+a Promiſe, and afterwards as break<g ref="char:EOLhyphen"/>ing
+a Promiſe; who firſt upon a Promiſe
+gave him a Son, and afterwards bids him
+<hi>go and offer up thy Son,</hi> Gen. 22. kill him,
+ſlay him with thine own hands. Now if
+you look into <hi>Gen.</hi> 17. there is made out
+to <hi>Abraham</hi> the Intereſt that he had in
+<pb n="42" facs="tcp:172638:27"/>
+God; and God tells him there, <hi>I am thy
+ſhield, and thy exceeding great reward.</hi> Well,
+now when God had made out to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>
+his Intereſt, he puts him upon
+Streights and great Trials; and this hot<g ref="char:EOLhyphen"/>teſt
+Trial of all, the offering up of his
+only Son by <hi>Sarah,</hi> his dearly beloved Wife:
+Well, thought <hi>Abraham,</hi> if I muſt do it,
+ſurely God will do me good by it, as his
+Grandſon <hi>Jacob</hi> ſaid in another caſe.
+What did <hi>Abraham,</hi> when his Intereſt
+that he had in God was made out to
+him, but falls to flat believing? Says the
+Apoſtle, <hi>Rom. 4. 20. He ſtaggered not.</hi> For
+he that was able to raiſe his Son from
+the dead, as well as he could make the
+barren Womb of <hi>Sarah</hi> for to bear, and
+to bring him forth; O! is a Conſidera<g ref="char:EOLhyphen"/>tion
+of great worth. If you can once
+find upon Scripture-grounds, that God is
+your God, (but take heed, I pray you of
+falſe and deceitful grounds;) you may be
+ſure God will ſtay up your Hearts in any
+diſtreſs. If you are his, and rely wholly
+upon him, you have both God's hand
+and ſeal to do you good. Conſider <hi>Da<g ref="char:EOLhyphen"/>vid,</hi>
+how in his Troubles he fell to be<g ref="char:EOLhyphen"/>lieving;
+and you know what great Trou<g ref="char:EOLhyphen"/>bles
+he paſſed through, greater than ever
+<hi>Saul</hi> had when he had his Intereſt clear<g ref="char:EOLhyphen"/>ed
+up in God: And whatſoever his Trou<g ref="char:EOLhyphen"/>bles
+<pb n="43" facs="tcp:172638:27"/>
+were, he ſet Faith on work; he bids
+Faith fall on, and fear not: Though
+Troubles were on this ſide, and on that
+ſide, nay round about, yet ſee how blunt<g ref="char:EOLhyphen"/>ly
+he falls on, <hi>Pſal. 25. 2. O, my God, I
+truſt in thee, I truſt in thee:</hi> I know I have
+many and mighty Adverſaries, but I rely
+only upon thee, do thou conſider which
+way thou wilt rid me of them, and bring
+me out of my Trouble. He did not ſay,
+Will the Lord, or will God help me? and
+will the Lord be found of me? He did
+not ſtagger thus, but he bids Faith fall on;
+<hi>O, my God, I truſt in thee, I will not fear
+what Man can do unto me.</hi> Beloved, it is
+an excellent thing, not, when Troubles
+come, to ſtand as a People amazed; but
+let Faith lay hold on God as a God Al-ſufficient.
+Tell God with Reverence, you
+will commit all to him: As a Duke, be<g ref="char:EOLhyphen"/>ing
+about to make War with a Biſhop,
+before he engaged in the War he ſends out
+a Spy to take notice what the Biſhop ſaid,
+and how he behaved himſelf. Who re<g ref="char:EOLhyphen"/>turning,
+the Duke askt him, What the
+Biſhop was doing, and how he behaved
+himſelf? Says he, the Biſhop ſeems to be
+very careleſs; he ſays, He will preach the
+Word, and ſeed his Flock, and <hi>totius belli
+molem deo Ommittet.</hi> I, ſays the Duke,
+ſays he ſo, <hi>Tunc ei bellum inferat Diabolus
+<pb n="44" facs="tcp:172638:28"/>
+non Ego;</hi> Then let the Devil make War
+with him for me. Thus Faith will di<g ref="char:EOLhyphen"/>rect
+all your Affairs to God; and having
+ſo done, hence will ariſe abundance of
+ſweet Peace and Quiet in your Minds.
+The reaſon of all the Diſquiet that is at
+any time on the Spirits of God's People,
+eſpecially in days of Trouble, is becauſe
+they cannot truſt God, and ſtay their
+Minds on him: They cannot believe,
+and that makes the poor Soul to toſs and
+tumble up and down; they are afflicted
+with this fear and that fear. What ſays
+the Prophet, <hi>Iſa. 7. 9. If you will not be<g ref="char:EOLhyphen"/>lieve,
+ſurely you ſhall not be eſtabliſhed:</hi> God
+will be found to be faithful if you would
+truſt in him, and rely upon him: Faith,
+it will ſet you upon the Rock that is
+higher than your ſelves, higher than any,
+nay than all your Adverſaries; ſo that
+when the Winds blow, and the Storms
+beat, and the Waves roar and rage againſt
+a Rock that ſtands firm and ſtedfaſt in
+the midſt of the Sea, againſt which, as
+Adverſaries, the Waves foam and ſpit, and
+ſplit themſelves with rage; yet he on
+ſuch a Rock ſits and laughs, and remain<g ref="char:EOLhyphen"/>eth
+ſafe. A notable Inſtance we have in
+<hi>Matth.</hi> 14. of the Condition of ſuch a one
+as doth believe. Our Saviour would there
+teach us by Example what truſting in
+<pb n="45" facs="tcp:172638:28"/>
+God will do, and how when our Faith
+fails, then we ſhall fail our ſelves. In that
+Chapter you have how there, they were
+at Sea: Now Chriſt that could truſt his
+Father, and ſtay his Mind upon God, he
+needs no Ship as the Diſciples did, to keep
+him from drowning; he could walk on
+the Sea, as you may ſee he did <hi>ver.</hi> 25.
+yet doubtleſs then the Waves did toſs about
+Chriſt, ſo that he muſt needs be, in appear<g ref="char:EOLhyphen"/>ance,
+in a dangerous Condition: Yet Chriſt
+he could ſtay his Mind on God, his Faith
+kept him up that he could not ſink: But
+now they that were in the Ship not know<g ref="char:EOLhyphen"/>ing
+who this was, cried out: <hi>Why,</hi> ſays
+Chriſt to them, <hi>it is I, be not afraid.</hi> He
+ſet out before them a moſt glorious Inſtance
+of what Faith could do, in his walking up<g ref="char:EOLhyphen"/>on
+the Water. Now <hi>Peter</hi> that had ſome<g ref="char:EOLhyphen"/>thing
+of this Grace wrought in him by the
+Power of God, ſays he to Chriſt, <hi>Lord, if
+it be thou, bid me to come to thee on the Water:
+Why come,</hi> ſays Chriſt; ſo <hi>Peter</hi> came down,
+and walked on the Water to go to Chriſt,
+but at length he began to ſink. Mark, ſo
+long as his Faith kept firm, his Feet kept
+firm, and he was able to walk upon the
+Water; the Water was as a Floor under
+him; but now mark, his Truſt began to
+fail on a ſudden, as Faith will many times
+ebb and flow in a moment. Now as his
+<pb n="46" facs="tcp:172638:29"/>
+Faith began to ſink, his Feet began to ſink,
+for he had ſome Faith, though it was but lit<g ref="char:EOLhyphen"/>tle:
+Mark therefore how clearly this is
+made out; for when he ſaw the Wind boi<g ref="char:EOLhyphen"/>ſterous,
+<hi>ver.</hi> 30. Why did he not ſee it ſo
+when he was in the Ship? Yes, doubtleſs
+it was, as you may find <hi>ver.</hi> 24. but then he
+had a believing ſight of Chriſt; but now
+his Faith that began to grow weak, and to
+ſink within him; but immediately Chriſt
+put forth his Hand, and caught him, and
+ſaid, <hi>O, thou of little faith, wherefore didſt
+thou doubt?</hi> So ready is Chriſt to ſuccour
+ſuch as have any, though but a weak Faith:
+as if Chriſt had ſaid, I confeſs thou wert in
+a place of great danger, the Sea wide, and
+the Winds high, and the Waves boiſterous,
+but yet if thou couldeſt have believed, thou
+ſhouldeſt have done well enough; the Lit<g ref="char:EOLhyphen"/>tleneſs
+of thy Faith, it was that that made
+thee ſink: So that you ſee how ready God
+is to relieve Faith, though it be but little;
+for which I may give you many Reaſons, I
+will name but two.</p>
+            <p>Firſt, Becauſe this is a Grace that is ſo
+much deſpiſed by the Men of the World,
+and are apt to upbraid thoſe that place their
+Truſt in God, as we have an Inſtance of
+this in Chriſt himſelf; <hi>O,</hi> ſay they, <hi>Mat.
+27. 43. he truſted in God, let him deliver him
+now if he will have him:</hi> And ſo the Apoſtle
+<pb n="47" facs="tcp:172638:29"/>
+               <hi>Paul</hi> ſpeaks of himſelf, and others the Ser<g ref="char:EOLhyphen"/>vants
+of God, <hi>1 Tim. 4. 10. For therefore we
+both labour and ſuffer reproach, becauſe we truſt
+in the living God;</hi> ſo likewiſe <hi>Pſal.</hi> 14. 6.</p>
+            <p>Secondly, Becauſe by truſting in God,
+the Poor commit themſelves to God when
+they have nothing elſe to truſt to, as the
+Widow being deſolate, ſays the Apoſtle,
+<hi>1 Tim. 5. 5. truſts in God;</hi> and ſo <hi>Zeph. 3. 12.
+I will leave in the midſt of thee a poor People,
+and they ſhall truſt in the Name of the Lord:</hi>
+Though they be poor, and never ſo mean,
+yet if they truſt in God, he will never leave
+them nor forſake them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
